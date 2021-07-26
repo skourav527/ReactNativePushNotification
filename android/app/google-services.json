@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "338414386115",
+    "firebase_url": "https://intouchpushnotify.firebaseio.com",
+    "project_id": "intouchpushnotify",
+    "storage_bucket": "intouchpushnotify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338414386115:android:dccb7d8672f75954125b76",
+        "android_client_info": {
+          "package_name": "com.intouch_pushnotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338414386115-cihftmkjdbqq3vlr4asi0v3g9u0c8fki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6WErD-I74EXWyj7O0DcuijEH3VUusxgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338414386115-cihftmkjdbqq3vlr4asi0v3g9u0c8fki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
